@@ -1,5 +1,21 @@
 <img src="static/logo.png" alt="dirsearch" width="675px">
 
+
+
+
+
+
+
+https://github.com/maurosoria/dirsearch.git
+
+
+
+
+
+
+
+
+
 dirsearch - Web path discovery
 =========
 
